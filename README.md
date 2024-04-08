@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumdoly2000)](https://solved.ac/bumdoly2000/)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBG1&layout=compact)
+<h3>📚 Studying 📚</h3>
+<div>
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumdoly2000)](https://solved.ac/bumdoly2000/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBG1&layout=compact)
+
+
+
+
+
+
