@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=aliceblue&height=300&section=header&text=capsule%20render&fontSize=90)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumdoly2000)](https://solved.ac/bumdoly2000/)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBG1&layout=compact)
 <h3>📚 Studying 📚</h3>
