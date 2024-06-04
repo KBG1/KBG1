@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-3578E5?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
