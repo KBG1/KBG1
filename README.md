@@ -14,20 +14,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- 헤더 -->
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Introduce%20KBG&fontSize=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=cfffe9&text=Introduce%20Me&fontSize=45&reversal=false&section=header&fontAlignY=50" alt="header"/>
 </div>
 
 <br/>
 <br/>
 
+<!-- 알고리즘 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBG1&layout=compact" alt="Top Langs" />
   <a href="https://solved.ac/bumdoly2000/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bumdoly2000" alt="Solved.ac Profile" />
   </a>
 </div>
 
+
+<!-- 언어 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBG1&layout=compact" alt="Top Langs" />
+</div>
 <br/>
 <br/>
 
