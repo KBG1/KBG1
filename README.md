@@ -63,6 +63,13 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<h2 align="center">📃 Project 📃</h2>
+<div align="center">
+  <a href="https://github.com/togather209/togather.git" style="text-decoration: none">[일정관리부터 정산까지, Togather]</a>
+</div>
+
+<br/>
+<br/>
 <div align=center>
   <h3> 🌱 KBG's Git Stat 🌱 </h3>
   <br/>
