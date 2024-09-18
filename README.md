@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <h2 align="center">📃 Project 📃</h2>
 <div align="center">
   <a href="https://github.com/togather209/togather.git" style="text-decoration: none">[일정관리부터 정산까지, Togather]</a>
+  <a href="https://github.com/cbnu-core-project/front" style="text-decoration: none">[충북대학교 동아리 정보 시스템, ARIBLE]</a>
 </div>
 
 <br/>
