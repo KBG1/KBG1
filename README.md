@@ -66,14 +66,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">📃 Project 📃</h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab510ce3-16be-467d-9abd-12e8d996dfa7" width="300" height="500"/>
-<img src="https://github.com/user-attachments/assets/9e153f13-05ba-4e75-87f2-7bbd2ce5c8a3" width="300" height="500"/><br/>
-  <a href="https://github.com/WONTOUCH" align="center" style="text-decoration: none">[전략적 모의투자 웹 게임, WonTouch]</a> &nbsp &nbsp &nbsp &nbsp &nbsp
-  <a href="https://github.com/togather209/togather.git" style="text-decoration: none">[일정관리부터 정산까지, Togather]</a>
-</div>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/30ed03a4-528f-4759-b25c-f7ba664ae11f" alt="동아리로고" width="300" height="500"/><br/>
-  <a href="https://github.com/cbnu-core-project/front" style="text-decoration: none">[충북대학교 동아리 정보 시스템, ARIBLE]</a>
+  <a href="https://github.com/nodawoon/frontend" style="text-decoration: none"><strong>1.</strong> [설문을 통해 나를 알아가는 서비스, 너에게 난]</a> <br/><br/>
+  <a href="https://github.com/WONTOUCH" align="center" style="text-decoration: none"><strong>2.</strong>  [전략적 모의투자 웹 게임, WonTouch]</a> <br/><br/>
+  <a href="https://github.com/togather209/togather.git" style="text-decoration: none"><strong>3.</strong> [일정관리부터 정산까지, Togather]</a> <br/><br/>
+  <a href="https://github.com/cbnu-core-project/front" style="text-decoration: none"><strong>4.</strong> [충북대학교 동아리 정보 시스템, ARIBLE]</a> <br/><br/>
 </div>
 
 <br/>
